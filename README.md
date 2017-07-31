@@ -59,28 +59,28 @@ Berikut adalah tampilan dari program ATMnya:
       
       Jika salah menuliskan PIN, maka button correct berfungsi menghapus PIN yang telah terisi
       
-      ![gambar 18](https://github.com/Ainnaya/BANKKRUPT-NeatBeans/blob/3b95a8d13d85ee09729a3617d98384194f726c6c/18.png)
-      
     - **BUTTON BATAL:**
       Berfungsi untuk membatalkan dan keluar dari tampilan pengisian PIN (frame: mypin) ke tampilan awal (frame: mybank).
       
-      ![gambar 19](https://github.com/Ainnaya/BANKKRUPT-NeatBeans/blob/3b95a8d13d85ee09729a3617d98384194f726c6c/19.png)
+      ![gambar 18](https://github.com/Ainnaya/BANKKRUPT-NeatBeans/blob/3b95a8d13d85ee09729a3617d98384194f726c6c/18.png)
       
     - **BUTTON CONFIRM:**
        Pada saat kita klik Confirm ada kondisi dimana apabila PIN benar/salah maka akan keluar msgBox. Berikut codingan kondisi pada button CONFIRM:
        
-      ![gambar 20](https://github.com/Ainnaya/BANKKRUPT-NeatBeans/blob/3b95a8d13d85ee09729a3617d98384194f726c6c/20.png)
+      ![gambar 19](https://github.com/Ainnaya/BANKKRUPT-NeatBeans/blob/3b95a8d13d85ee09729a3617d98384194f726c6c/19.png)
       
       Jika pin benar, akan melanjutkan ke tampilan transaksi:
       
-      ![gambar 21](https://github.com/Ainnaya/BANKKRUPT-NeatBeans/blob/3b95a8d13d85ee09729a3617d98384194f726c6c/21.png)
+      ![gambar 20](https://github.com/Ainnaya/BANKKRUPT-NeatBeans/blob/3b95a8d13d85ee09729a3617d98384194f726c6c/20.png)
       
       Jika pin salah, akan tetap pada tampilan login:
       
-      ![gambar 22](https://github.com/Ainnaya/BANKKRUPT-NeatBeans/blob/3b95a8d13d85ee09729a3617d98384194f726c6c/22.png)
+      ![gambar 21](https://github.com/Ainnaya/BANKKRUPT-NeatBeans/blob/3b95a8d13d85ee09729a3617d98384194f726c6c/21.png)
       
   - **Tampilan Ketiga**
   
+    ![gambar 22](https://github.com/Ainnaya/BANKKRUPT-NeatBeans/blob/3b95a8d13d85ee09729a3617d98384194f726c6c/22.png)
+    
     ![gambar 23](https://github.com/Ainnaya/BANKKRUPT-NeatBeans/blob/3b95a8d13d85ee09729a3617d98384194f726c6c/23.png)
       
     Nama Frame: mylayanan
